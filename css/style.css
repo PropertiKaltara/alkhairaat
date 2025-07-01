@@ -182,6 +182,7 @@ body {
 
   .logo img {
     width: 50%;
+    margin-left: 20px;
   }
 
   .navbar-nav ul {
@@ -234,5 +235,9 @@ body {
   .navbar-nav.active {
     transform: translateX(0);
     display: block;
+  }
+
+  .social-media {
+    border-left: none;
   }
 }
